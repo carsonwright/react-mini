@@ -6,7 +6,8 @@ The problem with using react.js was it was too large to bundle with our api clie
 
 This is very small, does not have all the features, and is missing things that some would call a necessity for the core library, but since we do not need them for our projects I probably will not include them.
 It also probably doesn't have certain error handling for more complex components, and does not have speed optimization for intelligent rewrites of the dom, but again its tailored for our particular use case.
-Unless you're trying to find an extremely small, unbacked, fairly featureless library for a special use case, I would not reccomend using it.
+
+Unless you're trying to find an extremely small (a couple kbs), unbacked, fairly featureless library for a special use case, I would not reccomend using it.
 React Is a fantastic library and the facebook people made it really robust, full featured and fast.
 
 ### React JSX Supported
