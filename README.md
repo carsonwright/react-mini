@@ -10,7 +10,7 @@ It also probably doesn't have certain error handling for more complex components
 Unless you're trying to find an extremely small (a couple kbs), unbacked, fairly featureless library for a special use case, I would not reccomend using it.
 React Is a fantastic library and the facebook people made it really robust, full featured and fast.
 
-##### So Small Less Than 1kb!  (878 bytes currently)
+##### So Small Less Than 1kb Minified!  (878 bytes currently)
 
 ### React JSX Supported
 With that however I would like to say that I do intend to support the majority of use cases for jsx. If you see something that jsx builds but the lib doesn't support please put in a pull request.
