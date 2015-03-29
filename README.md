@@ -8,9 +8,13 @@ It also probably doesn't have certain error handling for more complex components
 Unless you're trying to find an extremely small, unbacked, fairly featureless library for a special use case, I would not reccomend using it.
 React Is a fantastic library and the facebook people made it really robust, full featured and fast.
 
-### JSX Supported
+### React JSX Supported
 With that however I would like to say that I do intend to support the majority of use cases for jsx. If you see something that jsx builds but the lib doesn't support please put in a pull request.
 
-gulp coffee - builds the lib
-gulp webserver - will bring up a live auto refreshing server
-gulp test - will run tests
+#### NPM JSX Compilation
+    npm install -g react-tools
+
+### Terminal Commands
+    gulp coffee     # Builds the lib
+    gulp webserver  # Will bring up a live auto refreshing server
+    gulp test       # will run tests
